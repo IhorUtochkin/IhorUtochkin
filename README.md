@@ -7,7 +7,7 @@ I build full-stack web applications and multiplayer games, and I am looking for 
 
 - **Internal management system** – sole developer of a production system for HR, time & leave, projects, clients, tasks and reporting.
   <sub>ASP.NET Core · Entity Framework Core · SQL Server · React · TypeScript · Azure · *private repository*</sub>
-- **Project 300 – Multiplayer MOBA** – leading a team of four. I build the client-server replication and core gameplay systems (towers, objectives, shrines, camera).
+- **Project 300 – Multiplayer MOBA** – leading a team of four. So far I built the client-server replication and core gameplay systems (towers, objectives, shrines, camera), now working on characters and gameplay logic.
   <sub>Unity · C# · Netcode for GameObjects · *code coming soon*</sub>
 - **Active Habit & Wellness Tracker** – Android app with a local database (CRUD), photo capture and responsive layouts.
   <sub>Kotlin · Jetpack Compose · CameraX</sub>
